@@ -1,6 +1,6 @@
-# Recipe Library
+# The Recipe Library
 
-**Recipe Library** is a platform to discover and explore a wide variety of recipe options for any dish. Whether you’re looking for different types of cakes, pastas, or curries, this read-only platform helps you find multiple recipes easily and in one place.
+**The Recipe Library** is a platform to discover and explore a wide variety of recipe options for any dish. Whether you’re looking for different types of cakes, pastas, or curries, this read-only platform helps you find multiple recipes easily and in one place.
 
 ## Features
 
