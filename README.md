@@ -24,6 +24,7 @@ This project is currently read-only and does not support recipe uploads or shari
 ## License
 
 This project is free to use and share.
+See app in action : https://the-recipe-library.netlify.app/
 
 ---
 
