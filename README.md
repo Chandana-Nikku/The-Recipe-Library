@@ -19,7 +19,7 @@
 
 ## Contributing
 
-This project is currently read-only and does not support recipe uploads or sharing.
+`This project is currently read-only and does not support recipe uploads or sharing.`
 
 ## License
 
