@@ -19,7 +19,7 @@
 
 ## Contributing
 
-`This project is currently read-only and does not support recipe uploads or sharing.`
+This project is currently read-only and does not support recipe uploads or sharing.
 
 ## License
 
@@ -28,4 +28,4 @@ See app in action : https://the-recipe-library.netlify.app/
 
 ---
 
-Happy cooking and exploring delicious recipes!
+`Happy cooking and exploring delicious recipes!`
